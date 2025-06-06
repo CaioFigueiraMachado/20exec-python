@@ -8,3 +8,4 @@ elif numero == 3:
     print("Você selecionou: Arqueiro")
 else:
     print("Opção inválida.")
+    # Caio Figueira Machado

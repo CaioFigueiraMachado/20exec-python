@@ -7,3 +7,4 @@ def par_ou_impar(numero):
 # Exemplo de uso:
 num = int(input("Digite um número: "))
 print(f"O número {num} é {par_ou_impar(num)}.")
+# Caio Figueira Machado
